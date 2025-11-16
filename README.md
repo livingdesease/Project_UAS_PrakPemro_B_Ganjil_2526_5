@@ -1,2 +1,11 @@
-# Project_UAS_PrakPemro_B_Ganjil_2526_5
-Project UAS Ganjil, Praktikum Pemrograman B, Kelompok 5
+Project UAS - Kelompok 5
+
+Pengumpul:
+Mellani Sofie - 250810701100069
+
+Cara compile program:
+gcc main.c buku.c anggota.c peminjaman.c utils.c -o app
+
+Cara menjalankan:
+Windows: app.exe
+Mac/Linux: ./app
