@@ -8,7 +8,7 @@ void tampilkanMenuUtama(Buku daftar[], int *nb, Anggota daftarA[], int *na) {
 
     do { // Menu ditampilkan berulang sampai user memilih 0
         printf("\n=== PERPUSTAKAAN ===\n");
-        printf("1. Tambah Buku\n");          // Menu tambah buku
+        printf("1. Tambah Buku\n");         // Menu tambah buku
         printf("2. Hapus Buku\n");          // Menu hapus buku
         printf("3. Edit Buku\n");           // Menu edit buku
         printf("4. Tampilkan Buku\n");      // Menampilkan seluruh buku
@@ -87,3 +87,4 @@ int main(void) {
 
     return 0; // Mengakhiri program tanpa error
 }
+
