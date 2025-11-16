@@ -7,5 +7,4 @@ Cara compile program:
 gcc main.c buku.c anggota.c peminjaman.c utils.c -o app
 
 Cara menjalankan:
-Windows: app.exe
-Mac/Linux: ./app
+Perpustakaan.exe
